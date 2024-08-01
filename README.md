@@ -1,10 +1,10 @@
-# 👋
+<div align="center">
+  <h1><b>👋 Hi, I'm Ameen Khawaja</b></h1>
+</div>
 
-My interests are in Software Development & Cloud technologies
-
-- 🎓 I'm currently studying to obtain my Bachelors of Science in Computer Science and will graduate December 2024!
-- 🌱 I'm currently learning/building with TypeScript
-- ⚡ Fun fact: I enjoy building keyboards and playing games!
+- 🎓 I'm currently studying to obtain my Bachelors of Science in Computer Science (Graduating December 2024)!
+- 🌱 My interests are in Software Development & Cloud Computing
+- ⚡ Fun fact: I enjoy building keyboards!
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameenkbrock/)
@@ -19,5 +19,3 @@ My interests are in Software Development & Cloud technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
