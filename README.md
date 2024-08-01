@@ -1,6 +1,6 @@
 # 👋
 
-My interests are in software development and web technologies!
+My interests are in Software Development & Cloud technologies
 
 - 🎓 I'm currently studying to obtain my Bachelors of Science in Computer Science and will graduate December 2024!
 - 🌱 I'm currently learning/building with TypeScript
