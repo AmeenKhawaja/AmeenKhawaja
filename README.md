@@ -2,8 +2,8 @@
   <h1><b>👋 Hi, I'm Ameen Khawaja</b></h1>
 </div>
 
-- 🎓 I'm currently studying to obtain my Bachelors of Science in Computer Science (Graduating December 2024)!
-- 🌱 My interests are in Software Development & Cloud Computing
+- 🎓 Computer Science Graduate
+- 🌱 Interested in Software Engineering
 - ⚡ Fun fact: I enjoy building keyboards!
 
 ## Connect with me:
